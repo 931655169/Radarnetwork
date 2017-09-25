@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RadarView">
+        <attr name="maxValue" format="float" />
+        <attr name="MainPaintColor" format="color"/>
+        <attr name="ValuePaintColor" format="color"/>
+        <attr name="TextPaintColor" format="color"/>
+    </declare-styleable>
+</resources>
